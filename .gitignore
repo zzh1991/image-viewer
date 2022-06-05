@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+*.log
+
+bin/*
+include/*
+lib/*
+.Python
+
+target/
+tmp/*
+static/images/*
+
+.DS_Store
+venv2
+venv3
